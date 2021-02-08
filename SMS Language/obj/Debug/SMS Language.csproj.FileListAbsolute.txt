@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\SMS Language\SMS Language\bin\Debug\SMS Language.exe.config
+C:\Users\user\source\repos\SMS Language\SMS Language\bin\Debug\SMS Language.exe
+C:\Users\user\source\repos\SMS Language\SMS Language\bin\Debug\SMS Language.pdb
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS Language.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS_Language.frmSmsLanguage.resources
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS_Language.Properties.Resources.resources
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS Language.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS Language.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS Language.exe
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS Language.pdb
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS_Language.Keywords.resources
+C:\Users\user\source\repos\SMS Language\SMS Language\obj\Debug\SMS_Language.Information.resources
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\bin\Debug\SMS Language.exe.config
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\bin\Debug\SMS Language.exe
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\bin\Debug\SMS Language.pdb
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS Language.csprojAssemblyReference.cache
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS_Language.frmSmsLanguage.resources
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS_Language.Keywords.resources
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS_Language.Properties.Resources.resources
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS_Language.Information.resources
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS Language.csproj.GenerateResource.cache
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS Language.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS Language.exe
+C:\Users\user\Desktop\school\2nd Year\Liul_Alemayehu_2ndYear_Section2_Csharp_2020-05-25\SMS Language\SMS Language\obj\Debug\SMS Language.pdb
